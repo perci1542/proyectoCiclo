@@ -29,20 +29,17 @@
           "precio": 150,
           "id": 6,
           "title": "Chela"
-        }
-        ,
+        },
         {
           "precio": 10,
           "id": 7,
           "title": "Mango"
         },
-        ,
         {
           "precio": 10,
           "id": 8,
           "title": "Mango"
         },
-,
         {
           "precio": 10,
           "id": 9,
