@@ -1,54 +1,12 @@
 
-[
 {
-  id: 1,
-  titulo: 'cafe',
-  precio: '5.13'
-},
-{
-  id: 2,
-  titulo: 'pan',
-  precio: '5.13'
-},
-{
-  id: 1,
-  titulo: 'leche',
-  precio: '5.13'
-},
-{
-  id: 3,
-  titulo: 'huevo',
-  precio: '5.13'
-},
-{
-  id: 4,
-  titulo: 'mantequilaa',
-  precio: '5.13'
-},
-{
-  id: 5,
-  titulo: 'holaa',
-  precio: '5.13'
-},
-{
-  id: 6,
-  titulo: 'dwd',
-  precio: '5.13'
-},
-{
-  id: 7,
-  titulo: 'dawdwad',
-  precio: '5.13'
-},
-{
-  id: 8,
-  titulo: 'naranja',
-  precio: '5.13'
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-,
-{
-  id: 9,
-  titulo: 'hauchana',
-  precio: '5.13'
-}
-]
